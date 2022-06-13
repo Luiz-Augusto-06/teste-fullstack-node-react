@@ -77,97 +77,97 @@ Utilize algum framework para auxiliar no desenvolvimento da interface, por exemp
 
 Se tiver qualquer dúvida sobre esse teste, envie um email com o título `[Teste Fullstack] O assunto que vc deseja` para rh@4.events
 
-############################
 
 # Teste Fullstack Concluído
 
-# Desenvolvido por Luiz Augusto
+## Desenvolvido por Luiz Augusto
 
-# Tentei completa o desafio porém atuou na área de Front-end.
+## Tentei completa o desafio porém atuou na área de Front-end.
 
 
-#Software Usado para desenvolver
-     • Spck Editor app(Celular)
+## Software Usado para desenvolver
+ Spck Editor app(Celular)
 
-    Ideal:
-    • MySQL
-    • Visual Studio ( Outro editor da sua preferência)
+    ###Ideal para executar
+    1- MySQL
+    2- Visual Studio ( Outro editor da sua preferência)
      
-# Instalação
-    Ideal:
-    # Backend
-        • Usar npm ou yarn (Qualquer um dos dois ) para fazer a instalação das bibliotecas.
+## Instalação
+    Ideal para executar
+    ### Backend
+        1- Usar npm ou yarn (Qualquer um dos dois ) para fazer a instalação das bibliotecas.
         
-# Linguagem Usadas no Projeto
-     # ReactJs
+## Linguagem Usadas no Projeto
+     1- ReactJs
 
-    Ideal:
-     # Usar Node.js para Back-end e React Js para Front-end
+    ### Ideal para executar
+     1- Usar Node.js para Back-end e React Js para Front-end
 
-# Bibliotecas Usadas no Projeto:
-          • React-dom
-          • React
+## Bibliotecas Usadas no Projeto:
+  1- React-dom
+  2- React
 
- # Bibliotecas Para o Software ser executado :
-     # Backend 
-          • express
-          • mysql
-          • nodemon
-          • cors
-        Observação importante: instalar a biblioteca - SEQUELIZE - caso use os arquivos:
-                1-CreateTableSql.js 
-                2-ConnectBd.js
+## Bibliotecas Para o Software ser executado :
+ ### Backend 
+    1- express
+    2- mysql
+    3- nodemon
+    4- cors
+  ###Observação importante: instalar a biblioteca - SEQUELIZE - caso use os arquivos:
+     1-CreateTableSql.js 
+     2-ConnectBd.js
 
-    # FrontEnd
-          • Axios
-          • React-dom
-          • React-router-dom
+  ### FrontEnd
+    1- Axios
+    2- React-dom
+    3- React-router-dom
 
-# Framework Usado:
-          • Bootstrap 4/5
-          • Icons - FonteAwesome 4.7
+## Framework Usado
+    1- Bootstrap 4/5
+    2- Icons - FonteAwesome 4.7
 
-# Funcionalidade:
+## Funcionalidade
        1- Fazer buscas de uma lista de automóveis
        2- Listagem de veículos Adicionados
        3- Adicionar um novo Veículo
        4 - Pode editar ou excluir veículos que foram adicionado
 
-# Modificar dados:
-      1- Na pasta Server , no arquivo index.js, exite o seguinte código:
+## Modificar dados
+  1- Na pasta Server , no arquivo index.js, exite o seguinte código:
 
-   # const db = mysql.createPool({
+   ### const db = mysql.createPool({
             host: "localhost",
             user: "root",
             password: "password",
             database: "automoveis",
      });
 
-      Mudar para :
+    ### Mudar para :
             user: "seu root do MySQL",
             password: "senha do seu MySQL",
-
-
-# Criação da tabela de dados:
-      • Existe um arquivo chamado "creatTableMyslq" que pode ajudar na hora de criar a tabela no MySQL
-       • Outro modo de criar:
-            instalar a biblioteca no Node.js - SEQUELIZE - caso use os arquivos:
-                1-CreateTableSql.js 
-                2-ConnectBd.js
     
-# Documentação para ajuda:
- Bootstrap - https://getbootstrap.com/
+   ### Mudar a porta 8000 para uma porta que use
 
-ReactJs - https://react-bootstrap.github.io/
+## Criação da tabela de dados
+ 1- Existe um arquivo chamado "creatTableMyslq" que pode ajudar na hora de criar a tabela no MySQL
+ 2- Outro modo de criar:
+    instalar a biblioteca no Node.js - SEQUELIZE - caso use os arquivos:
+        1-CreateTableSql.js 
+        2-ConnectBd.js
+    
+## Documentação para ajuda:
+1- Bootstrap - https://getbootstrap.com/
+
+2- ReactJs - https://react-bootstrap.github.io/
 E
 https://pt-br.reactjs.org/
 
-Icons - https://fontawesome.com/v4/icons/
+3- Icons - https://fontawesome.com/v4/icons/
 
 
-# Observação importante :
-           #Não obtinha conhecimento sobre a linguagem Node.js mas através do projeto tive  conhecimento sobre a linguagem e consegui aprender algo sobre.
-           #Tenho limitações de infraestrutura (não possuo notebook ou computador) e por isso realizei o projeto através do celular. Por desenvolver através do celular fiquei limitado em vários requisitos como bibliotecas, Backend, entrei outros aspectos e por isso não pude testar o projeto por completo, ( O projeto foi testado na parte de ReactJs, mas com limitações ) porém tenho o conhecimento técnico para fazer e desenvolver.
+## Observação importante :
+Não obtinha conhecimento sobre a linguagem Node.js mas através do projeto tive  conhecimento sobre a linguagem e consegui aprender algo sobre.
+Tenho limitações de infraestrutura (não possuo notebook ou computador) e por isso realizei o projeto através do celular. Por desenvolver através do celular fiquei limitado em vários requisitos como bibliotecas, Backend, entrei outros aspectos e por isso não pude testar o projeto por completo, ( O projeto foi testado na parte de ReactJs, mas com limitações ) porém tenho o conhecimento técnico para fazer e desenvolver.
  
 ## Obrigado por me proporcionar esse desafio, obtive muito conhecimento através desse projeto.
 
