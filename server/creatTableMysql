@@ -1,0 +1,15 @@
+Create database automoveis;
+
+Use automoveis;
+
+CREATE TABLE carro (
+    codcarro INT AUTO_INCREMENT,
+    veiculo VARCHAR(50) NOT NULL,
+    marca VARCHAR(50) NOT NULL,
+    ano int(4) NOT NULL,
+    descrição text NOT NULL,
+    vendido bool NOT NULL,
+    created datetime,
+    Primary Key (codcarro)
+    
+);
