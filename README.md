@@ -166,8 +166,8 @@ Icons - https://fontawesome.com/v4/icons/
 
 
 # Observação importante :
-           - Não obtinha conhecimento sobre a linguagem Node.js mas através do projeto tive  conhecimento sobre a linguagem e consegui aprender algo sobre.
-           - Tenho limitações de infraestrutura (não possuo notebook ou computador) e por isso realizei o projeto através do celular. Por desenvolver através do celular fiquei limitado em vários requisitos como bibliotecas, Backend, entrei outros aspectos e por isso não pude testar o projeto por completo, ( O projeto foi testado na parte de ReactJs, mas com limitações ) porém tenho o conhecimento técnico para fazer e desenvolver.
+           #Não obtinha conhecimento sobre a linguagem Node.js mas através do projeto tive  conhecimento sobre a linguagem e consegui aprender algo sobre.
+           #Tenho limitações de infraestrutura (não possuo notebook ou computador) e por isso realizei o projeto através do celular. Por desenvolver através do celular fiquei limitado em vários requisitos como bibliotecas, Backend, entrei outros aspectos e por isso não pude testar o projeto por completo, ( O projeto foi testado na parte de ReactJs, mas com limitações ) porém tenho o conhecimento técnico para fazer e desenvolver.
  
 ## Obrigado por me proporcionar esse desafio, obtive muito conhecimento através desse projeto.
 
